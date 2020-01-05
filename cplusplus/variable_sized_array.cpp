@@ -6,7 +6,6 @@ using std::cin;
 
 int main()
 {
-
   int n, q;
   cin >> n >> q;
 
